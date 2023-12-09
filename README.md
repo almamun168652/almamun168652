@@ -68,11 +68,19 @@ I am a passionate Web developer love for clean and efficient code. With a strong
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=almamun168652&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple">
     <img src="https://github-readme-stats.vercel.app/api?username=almamun168652&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple" alt="midnight-purple" style="max-width: 100%;">
   </a>
+</p> -->
+
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnabdullah1&amp;layout=compact&amp;theme=midnight-purple">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almamun168652&theme=midnight_purple" alt="Top Langs" style="width: 39%; border: 1px solid white ;border-radius: 4px;">
+  </a>
 </p>
+
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=almamun168652&amp;layout=compact&amp;theme=midnight-purple">
