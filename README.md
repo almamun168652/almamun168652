@@ -57,3 +57,25 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 <br/>
 
+### Current Status
+
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=almamun168652&theme=midnight-purple">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=almamun168652&theme=midnight-purple" alt="GitHub Streak"  style="width: 70%;">
+  </a>
+</p>
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=almamun168652&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api?username=almamun168652&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=midnight-purple" alt="midnight-purple" style="max-width: 100%;">
+  </a>
+</p>
+
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=almamun168652&amp;layout=compact&amp;theme=midnight-purple">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almamun168652&amp;layout=compact&amp;theme=midnight-purple" alt="Top Langs" style="max-width: 100%;">
+  </a>
+</p>
+
+<hr/>
+<br/>
