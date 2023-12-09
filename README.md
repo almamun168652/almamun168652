@@ -15,3 +15,17 @@ Welcome to almamun168652 profile!
 
 **Hi, I'm Al Mamun, a committed and passionate React front-end developer with a background in full-stack development. Over the last six months, I've consistently refined my skills, with a particular emphasis on React.js, showcasing my dedication to crafting compelling and user-friendly front-end experiences**
 
+### About me
+
+<p>
+
+🌱 &emsp; I’m currently learning **Next Js,Mongoose** <br/>
+✌️  &emsp; Enjoy to do programming and sharing knowledge <br/>
+❤️ &emsp; Love to writing code and learning new features<br/>
+</p>
+
+
+I am a passionate Web developer love for clean and efficient code. With a strong foundation in various programming frameworks, I am always eager to expand my knowledge and explore new technologies. With a keen eye for details and a dedication to delivering high-quality Web solutions, I am driven to make a positive impact in the world of technology. Connect with me on GitHub to see my activity.
+
+
+<br/>
