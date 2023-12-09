@@ -13,7 +13,8 @@ Welcome to almamun168652 profile!
 
 
 
-**Hi, I'm Al Mamun, a committed and passionate React front-end developer with a background in full-stack development. Over the last six months, I've consistently refined my skills, with a particular emphasis on React.js, showcasing my dedication to crafting compelling and user-friendly front-end experiences.**
+**Hi, I'm Al Mamun, a committed and passionate React front-end developer with a background in full-stack development. Over the last six months, I've consistently refined my skills, with a particular emphasis on React.js, showcasing my dedication to crafting compelling and user-friendly front-end experiences**
+
 
 ### About me
 
@@ -39,6 +40,7 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/wdmamun75)
 
 
+
 ### 💻 Technology Skills:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -56,6 +58,7 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+
 
 ### Current Status
 
