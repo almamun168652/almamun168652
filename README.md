@@ -13,7 +13,7 @@ Welcome to almamun168652 profile!
 
 
 
-**Hi, I'm Al Mamun, a committed and passionate React front-end developer with a background in full-stack development. Over the last six months, I've consistently refined my skills, with a particular emphasis on React.js, showcasing my dedication to crafting compelling and user-friendly front-end experiences**
+**Hi, I'm Al Mamun, a committed and passionate React front-end developer with a background in full-stack development. Over the last six months, I've consistently refined my skills, with a particular emphasis on React.js, showcasing my dedication to crafting compelling and user-friendly front-end experiences.**
 
 ### About me
 
@@ -29,3 +29,12 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 
 <br/>
+
+### Connect With Me
+
+**Email**: [almamun168652@gmail.com](mailto:almamun168652@gmail.com)
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/wdmamun75/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/wdmamun75)
+[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/wdmamun75)
+
